@@ -14,3 +14,4 @@ function moveDodgerLeft() {
       dodger.style.right = `${right - 1}px`;
     }
   }
+}
